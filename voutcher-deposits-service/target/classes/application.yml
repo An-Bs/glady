@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: voutcher-service
+server:
+  port: 8035
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8083/eureka

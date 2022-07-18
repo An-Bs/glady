@@ -1,0 +1,10 @@
+com\glady\backend\challenge\controller\VoutcherDepositController.class
+com\glady\backend\challenge\utils\ExpirationDateUtils.class
+com\glady\backend\challenge\model\User.class
+com\glady\backend\challenge\model\VoutcherDeposits.class
+com\glady\backend\challenge\dao\UserRepository.class
+com\glady\backend\challenge\dao\VoutcherDepositRepository.class
+com\glady\backend\challenge\model\VoutcherDeposit.class
+com\glady\backend\challenge\dao\CompanyRepository.class
+com\glady\backend\challenge\VoutcherDepositService.class
+com\glady\backend\challenge\model\Company.class

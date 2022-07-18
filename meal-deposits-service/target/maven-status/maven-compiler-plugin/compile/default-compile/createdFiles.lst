@@ -1,0 +1,10 @@
+com\glady\backend\challenge\utils\ExpirationDateUtils.class
+com\glady\backend\challenge\model\User.class
+com\glady\backend\challenge\dao\MealDepositRepository.class
+com\glady\backend\challenge\dao\UserRepository.class
+com\glady\backend\challenge\dao\CompanyRepository.class
+com\glady\backend\challenge\model\MealDeposits.class
+com\glady\backend\challenge\MealDepositService.class
+com\glady\backend\challenge\model\MealDeposit.class
+com\glady\backend\challenge\model\Company.class
+com\glady\backend\challenge\controller\MealDepositController.class
