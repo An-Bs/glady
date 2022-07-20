@@ -1,6 +1,6 @@
 # Installation guide
 build the project submodules :
-* mvn clean install (on the parent folder glady if you wanna test all the microservice architecture)
+* mvn clean install (on the parent folder glady if you wanna build all the microservice architecture)
 * or just mvn clean install meal-deposits-service et voutcher-deposits-service
 * use the command : mvn spring-boot:run to run any of the submodules of the project.
 * run eureka server first then run the other services/apis after (in intellij you can use the compound see the image)
