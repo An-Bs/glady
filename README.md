@@ -5,7 +5,8 @@ build the project submodules :
 * run eureka server first then run the other services/apis after (in intellij you can use the compound see the image)
 *![img.png](img.png)
 * this is the architecture of my webservice solution :
-* !![img_2.png](img_2.png)
+*![img_2.png](img_2.png)
+* use the command : mvn spring-boot:run to run any of the submodules of the project.
 # Wedoogift Backend challenge
 You are interested in joining our team ? try to accomplish this challenge, we will be glad to see
 your code and give you feedback.
